@@ -1,1 +1,2 @@
 # CALCULATOR
+A CALCULATOR project given by CODSOFT using HTML,CSS and JAVASCRIPT.
